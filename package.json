@@ -1,0 +1,21 @@
+{
+  "name": "react-tag-input-1nelrc",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "16.4.2",
+    "react-dnd": "^2.6.0",
+    "react-dnd-html5-backend": "^3.0.2",
+    "react-dom": "16.4.2",
+    "react-tag-input": "^6.2.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
